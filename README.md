@@ -1,2 +1,52 @@
 # robot-ethics-books
 A collection of readings for one interested in robot ethics.
+
+## Course materials - INFO 2750
+This was initialized by a course Robot Ethics at Cornell University.
+
+**What is Good? Who/What Deserves Goodness?**:
+- Martin and Schinzinger: “Moral Theory”
+- Goodpaster – “On Being Morally Considerable”
+
+**Therapeutic Robots**:
+- Wall Street Journal article on ‘Paro’ the therapeutic robot ‘Paro’ Documentary
+- BBC article on ‘Uncanny Valley’
+
+**Models of Knowledge: Judgment vs. Analytics**:
+- Anderson: “The reasoning of the Strongest” 
+- Doing – “Lab Hands and the Scarlet ‘O’” 
+- Braverman – “Scientific Management” Robot Doctor Discussion Forum
+- Warner – “Analytics in Higher Education”
+- Stella – Minority Report Comes True – Real Life Crime Predicting” 
+- Discussion on Sports Analytics
+
+**Models of Agency; Structure vs. Action**:
+Gieryn – “Riding the Structure Action Pendulum”
+Nourbaksh Ch.’s 2 and 3 (“Robot Smog” and “Dehumanizing Robots”) Lin et. Al - Article 7 (‘Killing Made Easy: From Joysticks to Politics”) Lin – “The Ethics of Autonomous Cars”
+
+**Models of Agency; Technology vs. Human**:
+Sclove – “Spanish Waters/Amish Farming” Lin et. al. - Articles 8 and 9
+
+**Military Robots**:
+- [Paris Tech Review: “Can Military Robots Adopt Ethical Standards”]()
+- [The Drive: Autonomous Fighter Pilot](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)
+Automation and Labor
+Wilson – “My Grueling Day as an Amazon Mechanical Turk”
+
+**Human Enhancement**:
+- Khushf: “An Ethic for Enhancing Human Performance through Integrative Technologies”
+- Sententia: “Cognitive Enhancement and the Neuroethics of Memory Drugs”
+
+**Stock Trading**:
+- MacKenzie: “Trading at the Speed of Light”
+- [Flash Boys, Michael Lewis](https://bookshop.org/books/flash-boys-a-wall-street-revolt-9780393351590/9780393351590)
+
+**Humans as Machines**:
+- Kurzweil: “The Singularity is Near”
+
+
+## Other Resources
+**Books**:
+- [Human Compatible, Stuart Russell](https://bookshop.org/books/human-compatible-artificial-intelligence-and-the-problem-of-control/9780525558613)
+- [The Ethical Algorithm, Michael Kearns and Aaron Roth](https://bookshop.org/books/the-ethical-algorithm-the-science-of-socially-aware-algorithm-design/9780190948207)
+- [Weapons of Math Destruction, Cathy O'Neil](https://bookshop.org/books/weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/9780553418835)
