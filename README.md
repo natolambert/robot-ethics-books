@@ -16,18 +16,17 @@ This was initialized by a course Robot Ethics at Cornell University.
 - Anderson: “The reasoning of the Strongest” 
 - Doing: “Lab Hands and the Scarlet ‘O’” 
 - Braverman: “Scientific Management” 
-- Warner: “Analytics in Higher Education”
-- Stella: Minority Report Comes True – Real Life Crime Predicting” 
-- Discussion on Sports Analytics
+- [Stella: "Minority Report Comes True – Real Life Crime Predicting”](https://www.digitaltrends.com/cool-tech/hitachi-working-on-crime-predicting-technology/)
 
 **Models of Agency; Structure vs. Action**:
-- Gieryn: “Riding the Structure Action Pendulum”
-- Nourbaksh Ch.’s 2 and 3 (“Robot Smog” and “Dehumanizing Robots”) 
-- Lin et. Al: Article 7 (‘Killing Made Easy: From Joysticks to Politics”) 
-- Lin: “The Ethics of Autonomous Cars”
+- Gieryn: “Riding the Structure Action Pendulum” (can't find)
+- [Nourbakhsh Ch.’s 2 and 3 (“Robot Smog” and “Dehumanizing Robots”)](https://www.amazon.com/Robot-Futures-Press-Illah-Nourbakhsh/dp/0262018624)
+- Lin et. Al: Article 7 ("Killing Made Easy: From Joysticks to Politics”) 
+- [Lin: “The Ethics of Autonomous Cars”](https://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
 
 **Models of Agency; Technology vs. Human**:
-- Sclove: “Spanish Waters/Amish Farming” Lin et. al. - Articles 8 and 9
+- Sclove: “Spanish Waters/Amish Farming” 
+- [Lin et. al.:  Articles 8 and 9](https://www.amazon.com/Robot-Ethics-Implications-Intelligent-Autonomous/dp/026252600X)
 
 **Military Robots**:
 - [Paris Tech Review: “Can Military Robots Adopt Ethical Standards”]()
