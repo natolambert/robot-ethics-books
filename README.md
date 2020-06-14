@@ -15,7 +15,7 @@ This was initialized by a course Robot Ethics at Cornell University.
 **Models of Knowledge: Judgment vs. Analytics**:
 - Anderson: “The reasoning of the Strongest” 
 - Doing: “Lab Hands and the Scarlet ‘O’” 
-- Braverman: “Scientific Management” Robot Doctor Discussion Forum
+- Braverman: “Scientific Management” 
 - Warner: “Analytics in Higher Education”
 - Stella: Minority Report Comes True – Real Life Crime Predicting” 
 - Discussion on Sports Analytics
