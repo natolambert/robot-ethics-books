@@ -53,3 +53,6 @@ This was initialized by a course Robot Ethics at Cornell University.
 - [Human Compatible, Stuart Russell](https://bookshop.org/books/human-compatible-artificial-intelligence-and-the-problem-of-control/9780525558613)
 - [The Ethical Algorithm, Michael Kearns and Aaron Roth](https://bookshop.org/books/the-ethical-algorithm-the-science-of-socially-aware-algorithm-design/9780190948207)
 - [Weapons of Math Destruction, Cathy O'Neil](https://bookshop.org/books/weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/9780553418835)
+
+## Robot ethics failures (in progress):
+- https://twitter.com/AnimaAnandkumar/status/1271135883022884864
