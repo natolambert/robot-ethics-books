@@ -9,29 +9,32 @@ This was initialized by a course Robot Ethics at Cornell University.
 - Goodpaster – “On Being Morally Considerable”
 
 **Therapeutic Robots**:
-- Wall Street Journal article on ‘Paro’ the therapeutic robot ‘Paro’ Documentary
-- BBC article on ‘Uncanny Valley’
+- [Wall Street Journal article on ‘Paro’ the therapeutic robot](https://www.wsj.com/articles/SB10001424052748704463504575301051844937276); [Video](https://www.youtube.com/watch?v=oJq5PQZHU-I)
+- [BBC article on ‘Uncanny Valley’](https://www.bbc.com/future/article/20130901-is-the-uncanny-valley-real)
 
 **Models of Knowledge: Judgment vs. Analytics**:
 - Anderson: “The reasoning of the Strongest” 
-- Doing – “Lab Hands and the Scarlet ‘O’” 
-- Braverman – “Scientific Management” Robot Doctor Discussion Forum
-- Warner – “Analytics in Higher Education”
-- Stella – Minority Report Comes True – Real Life Crime Predicting” 
+- Doing: “Lab Hands and the Scarlet ‘O’” 
+- Braverman: “Scientific Management” Robot Doctor Discussion Forum
+- Warner: “Analytics in Higher Education”
+- Stella: Minority Report Comes True – Real Life Crime Predicting” 
 - Discussion on Sports Analytics
 
 **Models of Agency; Structure vs. Action**:
-Gieryn – “Riding the Structure Action Pendulum”
-Nourbaksh Ch.’s 2 and 3 (“Robot Smog” and “Dehumanizing Robots”) Lin et. Al - Article 7 (‘Killing Made Easy: From Joysticks to Politics”) Lin – “The Ethics of Autonomous Cars”
+- Gieryn: “Riding the Structure Action Pendulum”
+- Nourbaksh Ch.’s 2 and 3 (“Robot Smog” and “Dehumanizing Robots”) 
+- Lin et. Al: Article 7 (‘Killing Made Easy: From Joysticks to Politics”) 
+- Lin: “The Ethics of Autonomous Cars”
 
 **Models of Agency; Technology vs. Human**:
-Sclove – “Spanish Waters/Amish Farming” Lin et. al. - Articles 8 and 9
+- Sclove: “Spanish Waters/Amish Farming” Lin et. al. - Articles 8 and 9
 
 **Military Robots**:
 - [Paris Tech Review: “Can Military Robots Adopt Ethical Standards”]()
 - [The Drive: Autonomous Fighter Pilot](https://www.thedrive.com/the-war-zone/33866/manned-fighter-to-face-an-autonomous-drone-next-year-in-a-sci-fi-movie-like-showdown)
-Automation and Labor
-Wilson – “My Grueling Day as an Amazon Mechanical Turk”
+
+**Automation and Labor**:
+- Wilson: “My Grueling Day as an Amazon Mechanical Turk”
 
 **Human Enhancement**:
 - Khushf: “An Ethic for Enhancing Human Performance through Integrative Technologies”
