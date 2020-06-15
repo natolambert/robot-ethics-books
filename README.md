@@ -1,5 +1,26 @@
 # robot-ethics-books
-A collection of readings for one interested in robot ethics.
+A collection of readings for one interested in robot ethics. 
+I start with a running list of failures of machine learning bias before providing resources for study.
+
+## Robot ethics failures (in progress):
+**Language Processing**:
+- [2017, NLP data mirrors human-bias](https://science.sciencemag.org/content/356/6334/183)
+- [2020, OpenAI releases biased NLP tool from reddit corpus](https://twitter.com/AnimaAnandkumar/status/1271135883022884864)
+
+**Healthcare**:
+- [2019, Biased healh-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
+
+**Digital Apps**:
+- [2016, Microsoft's rogue chatbot](https://www.theverge.com/2016/3/23/11290200/tay-ai-chatbot-released-microsoft)
+- [2020, Giggle App's AI excluding members](https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social)
+
+**Companies**:
+- [2018, Amazon's sexist hiring algorithm](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
+
+**Other**:
+- [2016, Biased recidivism software](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+- [2018, failed child abuse protection app](https://www.wired.com/story/excerpt-from-automating-inequality/)
+- [2019, facial recognition bias](https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html)
 
 ## Course materials - INFO 2750
 This was initialized by a course Robot Ethics at Cornell University.
@@ -55,22 +76,4 @@ This was initialized by a course Robot Ethics at Cornell University.
 - [Weapons of Math Destruction, Cathy O'Neil](https://bookshop.org/books/weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/9780553418835)
 - [Automating Inequality, Virginia Eubanks](https://www.amazon.com/Automating-Inequality-High-Tech-Profile-Police/dp/1250074312)
 
-## Robot ethics failures (in progress):
-**Language Processing**:
-- [2017, NLP data mirrors human-bias](https://science.sciencemag.org/content/356/6334/183)
-- [2020, OpenAI releases biased NLP tool from reddit corpus](https://twitter.com/AnimaAnandkumar/status/1271135883022884864)
 
-**Healthcare**:
-- [2019, Biased healh-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
-
-**Digital Apps**:
-- [2016, Microsoft's rogue chatbot](https://www.theverge.com/2016/3/23/11290200/tay-ai-chatbot-released-microsoft)
-- [2020, Giggle App's AI excluding members](https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social)
-
-**Companies**:
-- [2018, Amazon's sexist hiring algorithm](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
-
-**Other**:
-- [2016, Biased recidivism software](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
-- [2018, failed child abuse protection app](https://www.wired.com/story/excerpt-from-automating-inequality/)
-- [2019, facial recognition bias](https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html)
