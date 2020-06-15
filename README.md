@@ -53,9 +53,11 @@ This was initialized by a course Robot Ethics at Cornell University.
 - [Human Compatible, Stuart Russell](https://bookshop.org/books/human-compatible-artificial-intelligence-and-the-problem-of-control/9780525558613)
 - [The Ethical Algorithm, Michael Kearns and Aaron Roth](https://bookshop.org/books/the-ethical-algorithm-the-science-of-socially-aware-algorithm-design/9780190948207)
 - [Weapons of Math Destruction, Cathy O'Neil](https://bookshop.org/books/weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/9780553418835)
+- [Automating Inequality, Virginia Eubanks](https://www.amazon.com/Automating-Inequality-High-Tech-Profile-Police/dp/1250074312)
 
 ## Robot ethics failures (in progress):
 **Language Processing**:
+- [2017, NLP data mirrors human-bias](https://science.sciencemag.org/content/356/6334/183)
 - [2020, OpenAI releases biased NLP tool from reddit corpus](https://twitter.com/AnimaAnandkumar/status/1271135883022884864)
 
 **Healthcare**:
@@ -70,4 +72,5 @@ This was initialized by a course Robot Ethics at Cornell University.
 
 **Other**:
 - [2016, Biased recidivism software](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+- [2018, failed child abuse protection app](https://www.wired.com/story/excerpt-from-automating-inequality/)
 - [2019, facial recognition bias](https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html)
