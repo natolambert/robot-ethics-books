@@ -56,7 +56,7 @@ This was initialized by a course Robot Ethics at Cornell University.
 
 ## Robot ethics failures (in progress):
 **Language Processing**:
-- [2020, OpenAI releases biased NLP tool from reddit corpus])https://twitter.com/AnimaAnandkumar/status/1271135883022884864)
+- [2020, OpenAI releases biased NLP tool from reddit corpus](https://twitter.com/AnimaAnandkumar/status/1271135883022884864)
 
 **Healthcare**:
 - [2019, Biased healh-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
