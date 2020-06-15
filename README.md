@@ -2,7 +2,7 @@
 A collection of readings for one interested in robot ethics. 
 I start with a running list of failures of machine learning bias before providing resources for study.
 
-## Robot ethics failures (in progress):
+## Automation ethical failures (in progress):
 **Language Processing**:
 - [2017, NLP data mirrors human-bias](https://science.sciencemag.org/content/356/6334/183)
 - [2020, OpenAI releases biased NLP tool from reddit corpus](https://twitter.com/AnimaAnandkumar/status/1271135883022884864)
