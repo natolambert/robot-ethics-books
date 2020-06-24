@@ -78,5 +78,5 @@ This was initialized by a course Robot Ethics at Cornell University.
 - [The Ethical Algorithm, Michael Kearns and Aaron Roth](https://bookshop.org/books/the-ethical-algorithm-the-science-of-socially-aware-algorithm-design/9780190948207)
 - [Weapons of Math Destruction, Cathy O'Neil](https://bookshop.org/books/weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/9780553418835)
 - [Automating Inequality, Virginia Eubanks](https://www.amazon.com/Automating-Inequality-High-Tech-Profile-Police/dp/1250074312)
-
+- [Anti-racist technology reading list](https://docs.google.com/spreadsheets/d/19mzkaHJrXfoCL1MvVnLVDqVlIpBfT6wQbKFOJwUcGnM/edit#gid=0)
 
