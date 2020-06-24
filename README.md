@@ -17,6 +17,9 @@ I start with a running list of failures of machine learning bias before providin
 **Companies**:
 - [2018, Amazon's sexist hiring algorithm](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
 
+**Policing**:
+- [2020, Detroit PD Arrests with CV](https://thehill.com/policy/technology/504306-facial-recognition-leads-to-detroit-man-being-wrongfully-arrested-aclu)
+
 **Other**:
 - [2016, Biased recidivism software](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
 - [2018, failed child abuse protection app](https://www.wired.com/story/excerpt-from-automating-inequality/)
