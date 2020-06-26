@@ -11,6 +11,7 @@ I start with a running list of failures of machine learning bias before providin
 - [2019, Biased healh-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
 
 **Digital Apps**:
+- [2015, Google photos 'Gorilla' incident](https://www.theverge.com/platform/amp/2015/7/1/8880363/google-apologizes-photos-app-tags-two-black-people-gorillas)
 - [2016, Microsoft's rogue chatbot](https://www.theverge.com/2016/3/23/11290200/tay-ai-chatbot-released-microsoft)
 - [2020, Giggle App's AI excluding members](https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social)
 
