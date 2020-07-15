@@ -15,6 +15,9 @@ I start with a running list of failures of machine learning bias before providin
 - [2016, Microsoft's rogue chatbot](https://www.theverge.com/2016/3/23/11290200/tay-ai-chatbot-released-microsoft)
 - [2020, Giggle App's AI excluding members](https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social)
 
+**Misuse of Deepfakes**:
+- [2020-7, Attacks on Activists](https://www.reuters.com/article/us-cyber-deepfake-activist/deepfake-used-to-attack-activist-couple-shows-new-disinformation-frontier-idUSKCN24G15E)
+
 **Companies**:
 - [2018, Amazon's sexist hiring algorithm](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
 
